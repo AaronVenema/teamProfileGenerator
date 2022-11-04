@@ -24,7 +24,6 @@ describe("New employee created", () => {
     expect(newEmp.email).toBe(testEmail)
   })
 
-
   describe("getName()", () => {
     it("Can get name via function", () => {
       const testName = "Aaron"
