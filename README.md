@@ -15,9 +15,10 @@
 ![image](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/teamProfileGenerator.jpg)
 
 ### Demo
+
 ![gif](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/demoGif.gif) 
 
-####Tests
+
 ![gif](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/demoTestGif.gif) 
 
 ### Description
