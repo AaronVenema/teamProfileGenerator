@@ -14,12 +14,12 @@
 
 ![image](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/teamProfileGenerator.jpg)
 
-### Demo Page Generator
+### Demo
 
-![gif](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/demoGif.gif) <br>
+![gif](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/demo.gif)
 
-### Demo Test
-![gif](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/demoTestGif.gif) <br>
+### Test
+![gif](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/demoTestGif.gif) 
 
 ### Description
 A team portfolio generator(manager, engineer, intern) that is excuted through the command line with node index.js. Passess all tests ran via npm run test. Please see either gif or video for live demo.  
