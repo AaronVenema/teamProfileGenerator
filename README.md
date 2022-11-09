@@ -14,11 +14,11 @@
 
 ![image](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/teamProfileGenerator.jpg)
 
-### Demo
+### Demo Page Generator
 
 ![gif](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/demoGif.gif) <br>
 
-
+### Demo Test
 ![gif](https://github.com/AaronVenema/teamProfileGenerator/blob/main/demo/demoTestGif.gif) <br>
 
 ### Description
